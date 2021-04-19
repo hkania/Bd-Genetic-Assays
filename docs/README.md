@@ -46,3 +46,9 @@ R Libraries & Packages (.bib file in docs)
 + [R-tidyverse](https://CRAN.R-project.org/package=tidyverse)
 + [R-XML](http://www.omegahat.net/RSXML)
 + [R-XVector](https://bioconductor.org/packages/XVector)
+
+Command Line
++ [Freebayes](https://github.com/freebayes/freebayes); Garrison E, Marth G. Haplotype-based variant detection from short-read sequencing. arXiv preprint arXiv:1207.3907 [q-bio.GN] 2012
++ [Samtools](http://www.htslib.org/doc/)
++ [BWA](https://github.com/lh3/bwa); Li H. and Durbin R. (2009) Fast and accurate short read alignment with Burrows-Wheeler Transform. Bioinformatics, 25:1754-60. [PMID: 19451168]; Li H. (2013) Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM. arXiv:1303.3997v2 [q-bio.GN].
++ [picard](http://broadinstitute.github.io/picard/)
