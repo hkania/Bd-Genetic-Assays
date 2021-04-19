@@ -41,7 +41,7 @@ R Libraries & Packages (.bib file in docs)
 + [R-rmarkdown](https://CRAN.R-project.org/package=rmarkdown)
 + [R-seqinr](http://seqinr.r-forge.r-project.org/)
 + [R-seqRFLP](https://CRAN.R-project.org/package=seqRFLP)
-+ R-ShortRead
++ [R-ShortRead](https://bioconductor.org/packages/release/bioc/html/ShortRead.html)
 + [R-stringr](https://CRAN.R-project.org/package=stringr)
 + [R-tidyverse](https://CRAN.R-project.org/package=tidyverse)
 + [R-XML](http://www.omegahat.net/RSXML)
