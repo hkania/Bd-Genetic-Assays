@@ -7,7 +7,7 @@ Amphibian species are declining globally. One major driver of these declines is 
 
 **Before You Begin**
 
-When utilizing the [HTML](https://hkania.github.io/Bd-Genetic-Assays/) Genetic Assay Workflows, [clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your local computer to utilize the reference files. 
+When utilizing the [HTML](https://hkania.github.io/Bd-Genetic-Assays/) Genetic Assay Workflows, [clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your local computer if you wish to follow-along using the reference files. 
 
 **Citations**
 + Byrne, A. Q., Vredenburg, V. T., Martel, A., Pasmans, F., Bell, R. C., Blackburn, D. C., Bletz, M. C., Bosch, J., Briggs, C. J., Brown, R. M., Catenazzi, A., Familiar López, M., Figueroa-Valenzuela, R., Ghose, S. L., Jaeger, J. R., Jani, A. J., Jirku, M., Knapp, R. A., Muñoz, A., … Rosenblum, E. B. (2019). Cryptic diversity of a widespread global pathogen reveals expanded threats to amphibian conservation. Proceedings of the National Academy of Sciences of the United States of America, 116(41), 20382–20387. https://doi.org/10.1073/pnas.1908289116
