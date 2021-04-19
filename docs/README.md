@@ -7,4 +7,4 @@ Amphibian species are declining globally. One major driver of these declines is 
 
 **Before You Begin**
 
-When utilizing the HTML [Genetic Assay Workflows](https://hkania.github.io/Bd-Genetic-Assays/), clone the repository to your local computer to utilize the refernce files. 
+When utilizing the HTML [Genetic Assay Workflows](https://hkania.github.io/Bd-Genetic-Assays/), clone the repository to your local computer to utilize the reference files. 
