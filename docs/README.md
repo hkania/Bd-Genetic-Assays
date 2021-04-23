@@ -1,5 +1,4 @@
 # Bd-Genetic-Assays
-A project for genetic assays of the amphibian pathogen Bd, eventually aimed to be open-sourced.
 
 Assays link: https://hkania.github.io/Bd-Genetic-Assays/
 
